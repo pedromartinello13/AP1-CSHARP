@@ -1,0 +1,28 @@
+G:\Meu Drive\LABORATORIO DE PROGRAMAÇÃO\AP1\obj\Debug\net8.0\AP1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\LABORATORIO DE PROGRAMAÇÃO\AP1\obj\Debug\net8.0\AP1.AssemblyInfoInputs.cache
+G:\Meu Drive\LABORATORIO DE PROGRAMAÇÃO\AP1\obj\Debug\net8.0\AP1.AssemblyInfo.cs
+G:\Meu Drive\LABORATORIO DE PROGRAMAÇÃO\AP1\obj\Debug\net8.0\AP1.csproj.CoreCompileInputs.cache
+G:\Meu Drive\LABORATORIO DE PROGRAMAÇÃO\AP1\obj\Debug\net8.0\AP1.dll
+G:\Meu Drive\LABORATORIO DE PROGRAMAÇÃO\AP1\obj\Debug\net8.0\refint\AP1.dll
+G:\Meu Drive\LABORATORIO DE PROGRAMAÇÃO\AP1\obj\Debug\net8.0\AP1.pdb
+G:\Meu Drive\LABORATORIO DE PROGRAMAÇÃO\AP1\bin\Debug\net8.0\AP1.exe
+G:\Meu Drive\LABORATORIO DE PROGRAMAÇÃO\AP1\bin\Debug\net8.0\AP1.deps.json
+G:\Meu Drive\LABORATORIO DE PROGRAMAÇÃO\AP1\bin\Debug\net8.0\AP1.runtimeconfig.json
+G:\Meu Drive\LABORATORIO DE PROGRAMAÇÃO\AP1\bin\Debug\net8.0\AP1.dll
+G:\Meu Drive\LABORATORIO DE PROGRAMAÇÃO\AP1\bin\Debug\net8.0\AP1.pdb
+G:\Meu Drive\LABORATORIO DE PROGRAMAÇÃO\AP1\obj\Debug\net8.0\AP1.genruntimeconfig.cache
+G:\Meu Drive\LABORATORIO DE PROGRAMAÇÃO\AP1\obj\Debug\net8.0\ref\AP1.dll
+C:\Users\Pedro Martinello\Desktop\AP1\bin\Debug\net8.0\AP1.exe
+C:\Users\Pedro Martinello\Desktop\AP1\bin\Debug\net8.0\AP1.deps.json
+C:\Users\Pedro Martinello\Desktop\AP1\bin\Debug\net8.0\AP1.runtimeconfig.json
+C:\Users\Pedro Martinello\Desktop\AP1\bin\Debug\net8.0\AP1.dll
+C:\Users\Pedro Martinello\Desktop\AP1\bin\Debug\net8.0\AP1.pdb
+C:\Users\Pedro Martinello\Desktop\AP1\obj\Debug\net8.0\AP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Martinello\Desktop\AP1\obj\Debug\net8.0\AP1.AssemblyInfoInputs.cache
+C:\Users\Pedro Martinello\Desktop\AP1\obj\Debug\net8.0\AP1.AssemblyInfo.cs
+C:\Users\Pedro Martinello\Desktop\AP1\obj\Debug\net8.0\AP1.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Martinello\Desktop\AP1\obj\Debug\net8.0\AP1.dll
+C:\Users\Pedro Martinello\Desktop\AP1\obj\Debug\net8.0\refint\AP1.dll
+C:\Users\Pedro Martinello\Desktop\AP1\obj\Debug\net8.0\AP1.pdb
+C:\Users\Pedro Martinello\Desktop\AP1\obj\Debug\net8.0\AP1.genruntimeconfig.cache
+C:\Users\Pedro Martinello\Desktop\AP1\obj\Debug\net8.0\ref\AP1.dll
